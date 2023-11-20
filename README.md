@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golu91&label=Profile%20views&color=0e75b6&style=flat" alt="golu91" /> </p>
 
-- 🔭 I’m currently working on **projects on Ai & Ml**
+- 🔭 I’m currently working on **projects on BlockChain Technology**
 
 - 🌱 I’m currently learning **Solidity & Javascript**
 
